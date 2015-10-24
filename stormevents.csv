@@ -1,0 +1,49 @@
+Event Type,Event Category
+Astronomical Low Tide,Tide
+Avalanche,Snow
+Blizzard,Snow
+Coastal Flood,Flood
+Cold/Wind Chill,Cold
+Debris Flow,Debris
+Dense Fog,Dense
+Dense Smoke,Dense
+Drought,Drought
+Dust Devil,Dust
+Dust Storm,Dust
+Excessive Heat,Heat
+Extreme Cold/Wind Chill,Cold
+Flash Flood,Flood
+Flood,Flood
+Frost/Freeze,Cold
+Funnel Cloud,Funnel
+Freezing Fog,Cold
+Hail,Hail
+Heat,Heat
+Heavy Rain,Rain
+Heavy Snow,Snow
+High Surf,Surf
+High Wind,Wind
+Hurricane (Typhoon),Hurricane
+Ice Storm,Cold
+Lake-Effect Snow,Snow
+Lakeshore Flood,Flood
+Lightning,Lightning
+Marine Hail,Hail
+Marine High Wind,Wind
+Marine Strong Wind,Wind
+Marine Thunderstorm Wind,Wind
+Rip Current,Tide
+Seiche,Tide
+Sleet,Sleet
+Storm Surge/Tide,Tide
+Strong Wind,Wind
+Thunderstorm Wind,Wind
+Tornado,Tornado
+Tropical Depression,Tropical
+Tropical Storm,Tropical
+Tsunami,Tsunami
+Volcanic Ash,Volcanic
+Waterspout,Waterspout
+Wildfire,Fire
+Winter Storm,Cold
+Winter Weather,Cold
